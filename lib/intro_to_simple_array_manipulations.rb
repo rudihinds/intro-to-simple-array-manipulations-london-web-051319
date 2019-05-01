@@ -1,3 +1,3 @@
 def using_push(array, string)
-  retu
+  return array.push(string)
 end
