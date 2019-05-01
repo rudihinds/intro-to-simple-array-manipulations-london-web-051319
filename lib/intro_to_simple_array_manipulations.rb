@@ -22,6 +22,6 @@ def shift_with_args(array)
   return array.shift(2)
 end
 
-def shift_with_args(array)
-  return array.shift(2)
+def using_concat(array1, array2)
+  return array.(2)
 end
